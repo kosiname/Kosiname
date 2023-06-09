@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is a collection of my SQL and Python for database management files
 
 <!--
 **kosiname/Kosiname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
