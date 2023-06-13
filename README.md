@@ -1,5 +1,6 @@
 ### Hi there 👋
-This is a collection of my SQL and Python for database management files
+This is a collection of my SQL and Python for database management files.
+
 I also added some data visualization projects I did with inspiration and data sets from online sources.
 
 <!--
